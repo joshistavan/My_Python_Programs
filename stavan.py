@@ -1,0 +1,7 @@
+# print("stavan jayeshbahi",end=" ")
+# print("joshi")
+# a=int(input("enter your digit number"))
+# print("your digit is",a+12)
+# a=int(input('enter your first number:)'))
+# b=int(input('enter your second number:)'))
+# print("your addition is ",a+b)
